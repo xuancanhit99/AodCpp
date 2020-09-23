@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//
 
 int bit7To1(int x) {
     return x = x | 64; // 128
